@@ -47,4 +47,14 @@ Your team leader will provide comprehensive briefings on roles, techniques, and 
 
 If you have any questions, concerns, or issues, please do not hesitate to reach out to your team leader or the support team. We are committed to fostering a collaborative and supportive environment to ensure the success of this project and the growth of our team members.
 
+Your team leader will brief you on the implementation details, including:
+
+- How the ranking system will be calculated and updated
+- How clan recruitments and tournaments will be managed
+- How announcements and leaderboards will be displayed
+- How gaming news and equipment information will be shared
+- How the front-end and back-end development will be integrated
+- How the database management and API integrations will be handled
+
+
 Let's work together to create something amazing! Ghreatness Lies within You ,Unleash it

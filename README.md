@@ -33,7 +33,7 @@ Team Members:
 - -Okikiola Damilare -Front End 
 - Wonah Moses - Graphics Designer
 - Orimisan Timileyin - Graphic Designer
-- -Ogboanoh Richard -Front End 
+- Ogboanoh Richard -Front End
 -Ndu Franklin- (Assistant)
 
 

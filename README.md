@@ -30,7 +30,7 @@ Team Members:
 - Awolesi Pemisin - Back End
 - Ogboanoh Richard - Front End
 - Nweke Chidinma - Front End
-- -Okikiola Damilare -Front End 
+- Olawale Timileyin
 - Wonah Moses - Graphics Designer
 - Orimisan Timileyin - Graphic Designer
 - Ogboanoh Richard -Front End

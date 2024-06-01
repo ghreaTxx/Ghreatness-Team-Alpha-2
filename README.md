@@ -25,13 +25,16 @@ Unique Aspect:
 
 Team Members:
 
-- Olawale Timileyin - Supervisor
+- Adesokan Muhammad-Supervisor
 - Osilaja FolaFolu - Back End (Team Leader)
 - Awolesi Pemisin - Back End
 - Ogboanoh Richard - Front End
-- Nweke Chidinma - Front End(Assistant)
+- Nweke Chidinma - Front End
+- -Okikiola Damilare -Front End 
 - Wonah Moses - Graphics Designer
 - Orimisan Timileyin - Graphic Designer
+- -Ogboanoh Richard -Front End 
+-Ndu Franklin- (Assistant)
 
 
 Note: This is a demo site, and we are showcasing an example of how the gaming section will be implemented.
